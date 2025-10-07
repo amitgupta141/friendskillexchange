@@ -41,8 +41,8 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: support@frinedskillexchange.com</li>
-              <li>Phone: (123) 456-7890</li>
+              <li>Email: ak1864953@gmail.com</li>
+              <li>Phone: 9006075674</li>
               <li>Address: new delhi</li>
             </ul>
           </div>
@@ -60,7 +60,7 @@ const Footer = () => {
                 Twitter
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/amit-kumar-b4a977246/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -68,7 +68,7 @@ const Footer = () => {
                 LinkedIn
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/amitgupta141"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
